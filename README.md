@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Jaganath
+Founder of Affilitereview.com
 
-<!--
-**Affilitereview/Affilitereview** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I publish honest and practical reviews of software, AI tools, marketing systems, and digital products. My goal is to help beginners, creators, and marketers choose the right tools to grow online.
 
-Here are some ideas to get you started:
+My Website
+https://affilitereview.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Do
+• Software reviews
+• AI tool testing
+• Digital marketing tutorials
+• Affiliate marketing guides
+• Traffic and conversion strategies
+
+Contact
+For collaboration or tool reviews, visit:
+https://affilitereview.com
+
